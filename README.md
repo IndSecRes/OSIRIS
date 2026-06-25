@@ -1,2 +1,5 @@
-# Osiris
-Open Source Intelligence Research &amp; Investigation System  An AI-assisted intelligence runtime environment for transforming information into evidence-based investigation intelligence.
+# OSIRIS
+
+Open Source Intelligence Research & Investigation System
+
+An AI-assisted intelligence runtime environment designed to transform raw information into evidence-backed intelligence.
